@@ -22,6 +22,11 @@
   width: 50%;
 }
 
+.Pagentation {
+  position: sticky;
+  left: 66%;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
